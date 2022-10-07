@@ -20,12 +20,12 @@ But we didn’t get that for this pandemic, and it’s entirely possible if we d
 
 **No government or local app integration required.** The product shipped “incomplete”, as a set of APIs that left local governments on the hook to write and publish an app. Of course, this was the exact moment in which local governments were swamped with a million coronavirus emergency IT needs. Google and Apple could have more easily run a global unified database that matched anonymous exposures, received an update from users who reported testing positive, and then pushed notifications to everyone, without needing government involvement.
 
-![Apple Exposure Notification Webpage](img/apple_exposure_webpage.png)
+![Apple Exposure Notification Webpage](/assets/covid_apple.png)
 In Apple’s Exposure Notification webpage, it’s front and center that Apple (and Google) don’t want to own any next steps: it’s up to your public health authority to give you further instructions.
 
 **Even the “lightweight” config-only apps were too difficult for public health groups to rapidly deploy.** The folks involved at Google and Apple knew this app requirement would be a big problem. So almost as soon as the feature was launched, a new option emerged called [“Notifications Express”](https://developer.apple.com/documentation/exposurenotification/supporting_exposure_notifications_express).
 
-![Notifications Express Timeline](img/public_health.png)
+![Notifications Express Timeline](/assets/covid_workflow.png)
 Unfortunately this is still proved too high a barrier, with the “Express” apps for some localities still delayed for months. The first country to adopt Exposure Notifications, Switzerland, didn’t end up launching until May 25, 2020. Across the US, states varied widely, creating huge swaths of the population with no app for months. California’s app didn’t launch till December. Utah’s launched this week (Feb 16, 2021). We were able to create, test, and approve vaccines faster than offering people the ability to notify other nearby Bluetooth signals that they might have been exposed to covid.
 
 **The “app store” experience was downright broken for it.** How were people to know they could and should download this app to turn this feature on? On day one, users who updated their OS could go to the app store and see a banner that said “Find your location’s exposure notification app”. After clicking on it, and manually selecting a country and state, the app would just say, “no app exists yet for your location”. Nobody got an alert when it finally became available, nobody could opt in to automatically get it when it became available. For a platform that relies on widespread adoption to make the software work, there were way too many barriers to adoption.
