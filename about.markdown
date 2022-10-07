@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Max Cho is co-founder and CEO of [Coverage Cat](https://coveragecat.com), a consumer insurance optimizer that finds the perfect insurance policies for you.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+He previously worked at Google, Two Sigma, Microsoft, and Yale University.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Max has an M.A. in Computer Science from the University of Washington, and a B.A. in Cognitive Science from Yale University.

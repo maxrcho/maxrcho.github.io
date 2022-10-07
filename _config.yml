@@ -22,10 +22,9 @@ title: Max Cho
 # email: webmaster@maxcho.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of Max Cho
-baseurl: "" # the subpath of your site, e.g. /blog
 domain: maxcho.com
 url: https://maxcho.com
-linkedin_username: max-cho-0a376a24
+linkedin_username: maxrcho
 # github_username:  maxrcho
 
 # Build settings
